@@ -44,7 +44,7 @@ Avoids full eigenvalue computation and saves numerical results and figures.
 -brain_data_manipulation.m
 
 Post-processing script for brain experiments.
-Reloads saved results and regenerates figures without recomputation. Notice that for space reasons Normalized_Laplacian.dat cannot be uploaded but using this file and the results saved in brain_results the figures in the paper can be reproduced. 
+Reloads saved results and regenerates figures without recomputation. Notice that for space reasons Normalized_Laplacian.dat cannot be uploaded but using this file and the results saved in brain_results folder the results presented in the paper can be reprodced. 
 
 -filters_plot.m
 
