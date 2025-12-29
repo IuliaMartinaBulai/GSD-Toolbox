@@ -1,10 +1,7 @@
 # GSD-Toolbox
 Graph Spectral Dimension Toolbox
 
-(c) Developed by
-Iulia Martina Bulai
-Isidoros Iakovidis
-Tim Steger
+(c) Developed by Iulia Martina Bulai, Isidoros Iakovidis, Tim Steger
 
 Description:
 This toolbox contains MATLAB code for estimating the spectral dimension of graphs using stochastic eigenvalue counting methods.
